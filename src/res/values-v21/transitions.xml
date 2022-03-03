@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="transition" name="APKTOOL_DUMMY_0" />
+    <item type="transition" name="APKTOOL_DUMMY_1" />
+    <item type="transition" name="APKTOOL_DUMMY_2" />
+    <item type="transition" name="APKTOOL_DUMMY_3" />
+    <item type="transition" name="APKTOOL_DUMMY_4" />
+    <item type="transition" name="APKTOOL_DUMMY_5" />
+    <item type="transition" name="APKTOOL_DUMMY_6" />
+    <item type="transition" name="APKTOOL_DUMMY_9" />
+</resources>
