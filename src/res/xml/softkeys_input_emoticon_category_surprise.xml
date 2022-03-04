@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <framework>
     <softkey_list template_id="@id/softkey_template_light_emoticon">
-        <softkey param_data=":-O" />
-        <softkey param_data=":-|" />
-        <softkey param_data="(゜゜)" />
-        <softkey param_data="(@_@)" />
-        <softkey param_data="(*_*)" />
-        <softkey param_data="(+_+)" />
-        <softkey param_data="(・o・)" />
-        <softkey param_data="(゜o゜)" />
-        <softkey param_data="(゜-゜)" />
-        <softkey param_data="(?_?)" />
-        <softkey param_data="Σ(ﾟДﾟ)" />
-        <softkey param_data="( ﾟдﾟ)" />
-        <softkey param_data="＼(◎o◎)／" />
-        <softkey param_data="(✽ ﾟдﾟ ✽)" />
-        <softkey param_data="ε≡≡ﾍ( ´Д`)ﾉ" />
+        <softkey param_data="(TдT)" />
+        <softkey param_data="(TOT)" />
+        <softkey param_data="(｡ŏ﹏ŏ)" />
+        <softkey param_data="(´;ω;`)" />
+        <softkey param_data="(╥﹏╥)" />
+        <softkey param_data="( ´•̥̥̥ω•̥̥̥` )" />
+        <softkey param_data="(;´༎ຶД༎ຶ`)" />
+        <softkey param_data="(〒︿〒)" />
+        <softkey param_data="( ´థ౪థ）σ" />
+        <softkey param_data="ಥ_ಥ" />
+        <softkey param_data="இдஇ" />
+        <softkey param_data="｡ﾟヽ(ﾟ´Д`)ﾉﾟ｡" />
+        <softkey param_data="｡ﾟ(ﾟ´ω`ﾟ)ﾟ｡" />
+        <softkey param_data="╰(〒皿〒)╯" />
+        <softkey param_data="◢▆▅▄▃崩╰(〒皿〒)╯潰▃▄▅▇◣" />       
     </softkey_list>
 </framework>
