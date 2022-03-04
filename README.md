@@ -1,6 +1,15 @@
 # Google 肥肥注音輸入法
 
-這是對 Google 注音輸入法的魔改。補齊了原輸入法缺少的 Emoji，並加入更多顏文字。
+這是對 Google 注音輸入法的魔改。
+
+補齊了原輸入法缺少的 Emoji（例如單身狗很需要的「🥺」和炮炮狗的「🥵」），如下圖。
+
+<img src="https://user-images.githubusercontent.com/39057640/156688584-7c590072-d2ae-40fd-acec-36c59f895112.png" width="320">
+
+修改顏文字並重新分類，如下圖。
+
+<img src="https://user-images.githubusercontent.com/39057640/156688362-cb35c8be-b2aa-4ba8-9500-96dc5cf43261.png" width="320">
+
 
 ## 背景
 
